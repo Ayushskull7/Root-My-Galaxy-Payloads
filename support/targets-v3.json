@@ -226,6 +226,21 @@
       }
     },
     {
+      "payloadId": "dm3q-S918BXXS8CYBD",
+      "displayName": "Galaxy S23 Ultra SM-S918B | Kernel 5.15.148 (S918BXXS8CYBD)",
+      "models": ["SM-S918B"],
+      "kernelVersions": ["5.15.148"],
+      "requiresFreshP0Session": true,
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/Ayushskull7/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S918BXXS8CYBD/cve-2026-43499-app.so",
+        "size": 130064
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/Ayushskull7/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm3q-S918BXXS8CYBD-kdp",
+        "size": 5889744
+      }
+    },
+    {
       "payloadId": "a53x-A536EXXSNGZG3",
       "displayName": "Galaxy A53 5G | Kernel 5.10.237",
       "models": ["SM-A536E"],
