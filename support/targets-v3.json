@@ -233,7 +233,7 @@
       "requiresFreshP0Session": true,
       "exploit": {
         "url": "https://raw.githubusercontent.com/Ayushskull7/Root-My-Galaxy-Payloads/main/artifacts/dm3q-S918BXXS8CYBD/cve-2026-43499-app.so",
-        "size": 130992
+        "size": 130872
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/Ayushskull7/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm3q-S918BXXS8CYBD-kdp",
